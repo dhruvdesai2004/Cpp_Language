@@ -17,12 +17,12 @@ class detail{
 		}
 		
 		void output(){
-			cout<<"\nThe value of a is  : "<<a;	
+			cout<<"\nThe value of a is public : "<<a;	
 		}
 		void output2(detail );
 };
 void output2(detail t){
-	cout<<"\nThe value of b is : "<<t.b;
+	cout<<"\nThe value of b is private : "<<t.b;
 }
 
 int main()
