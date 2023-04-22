@@ -18,7 +18,7 @@ class detail{
 		void output(){
 			cout<<"\nThe area of house : "<<area;
 			cout<<"\nThe house has given number of rooms : "<<n_rooms;
-			cout<<"\nThe house has given flore of rooms : "<<flore;
+			cout<<"\nThe house has given flore of rooms : "<<floor;
 		}
 };
 
